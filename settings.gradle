@@ -1,2 +1,3 @@
 rootProject.name='ApkDemo'
 include ':app', ':jninativedemo'
+include ':camera2demo'
